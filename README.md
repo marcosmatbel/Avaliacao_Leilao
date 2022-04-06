@@ -1,7 +1,8 @@
 # Avaliacao_Leilao
 Abrir o VS na solução Leilao.sln e dar um "Run" ou instalar em um servidor
 
-Abrir o react com console e correr o comando npm start
+npm install
+npm start
 
 
 
