@@ -1,5 +1,9 @@
 # Avaliacao_Leilao
-Para o teste técnico, é necessário o desenvolvimento da seguinte funcionalidade:   Criar um cadastro de produtos de um leilão com os campos Nome, Valor e Foto; Criar um cadastro de pessoa (Nome e Idade); Possibilitar a pessoa fazer um lance em um produto; O lance sempre deve ser maior que o maior lance já realizado; Se for menor ou igual, enviar uma mensagem para o usuário dizendo que não foi possível realizar o lance; É necessário ter mais de 18 anos para realizar um lance; Criar uma tela onde mostra todos os lances realizados (ordenando do maior para o menor lance) e seja possível realizar um filtro por nome de pessoa;  Itens Obrigatórios:   Deve ser utilizado stack .Net + ReactJS;  Script para criação de tabelas em um banco de dados relacional. Ex: sql server, mysql, etc. Simulação de Consultas Consulta onde é possível extrair todos os lances realizados em um produto; Consulta onde é possível visualizar o maior lance agrupado por produto;
+Abrir o VS na solução Leilao.sln e dar um "Run" ou instalar em um servidor
+
+Abrir o react com console e correr o comando npm start
+
+
 
 Microsoft Visual Studio Community 2019
 Version 16.11.11
