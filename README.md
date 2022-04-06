@@ -11,16 +11,27 @@ Version 16.11.11
 # ASP.NET Core WebAPI 5.0 Entity Framework
 
 Dependencias Nuget
+
 ClosedXML 0.95.4
+
 Microsoft.EntityFrameworkCore 5.0.15
+
 Microsoft.EntityFrameworkCore.Design 5.0.15
+
 Microsoft.EntityFrameworkCore.SqlServe 5.0.15
+
 Microsoft.EntityFrameworkCore.Design 5.0.15
+
 Microsoft.EntityFrameworkCore.SqlServer 5.0.15
+
 Microsoft.EntityFrameworkCore.Tools 5.0.15
+
 Microsoft.VisualStudio.Web.CodeGeneration.Design 5.0.2
+
 Pomelo.EntityFrameworkCore.MySql 5.0.4
+
 Swashbuckle.AspNetCore 5.6.3
+
 
 # Banco de dados Mysql
 
